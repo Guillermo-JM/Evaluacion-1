@@ -1,0 +1,40 @@
+.xzunun-navbar {
+  height: 100px;
+  background-color: #0A192F;
+}
+
+.xzunun-navbar .xzunun-logo {
+  color: #64FFDA;
+  font-size: 40px;
+}
+
+.xzunun-navbar .xzunun-item {
+  color: #CCD6F6;
+}
+
+.xzunun-navbar .xzunun-item-number {
+  color: #64FFDA;
+}
+
+.xzunun-navbar .xzunun-navbar-button {
+  color: #64FFDA;
+  border-style: solid;
+  border-color: #64FFDA;
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+}
+
+.xzunun-navbar .xzunun-toggle-button {
+  color: #64FFDA;
+}
+
+.xzunun-navbar .xzunun-item:hover {
+  color: #64FFDA;
+}
+.xzunun-navbar .xzunun-navbar-button:hover {
+  background-color: rgba(100, 255, 218, 0.1);
+}
+
+/*# sourceMappingURL=xzunun-style.css.map */
